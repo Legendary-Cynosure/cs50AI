@@ -1,6 +1,6 @@
 # Week 0 Search
 - https://revisely.com/flashcards/packs/lmP6a
-
+- https://colab.research.google.com/drive/1LVb9JNmMyWEMY3qTf5XeFCbtki3le3Ex#scrollTo=Lv7Rd_2SEyMM
 
 # Quiz 0 - CS50's Introduction to Artificial Intelligence with Python
 Quiz 0
