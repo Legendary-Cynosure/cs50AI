@@ -1,3 +1,7 @@
+# Week 0 Search
+- https://revisely.com/flashcards/packs/lmP6a
+
+
 # Quiz 0 - CS50's Introduction to Artificial Intelligence with Python
 Quiz 0
 ------
